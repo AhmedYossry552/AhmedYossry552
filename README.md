@@ -7,7 +7,7 @@
 
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1K9g9AiOpOxsI8qtgMvi849df0qxXnsRR/view?usp=sharing)
-- 📫 How to reach me **ahmedyoury552@gmail.com**
+- 📫 How to reach me **ahmedyossry552@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

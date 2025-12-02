@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ahmed Yousry</h1>
 <h2 align="center">Computer science</h2>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=  Software+Engineer+✨" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines= Software+Engineer+✨" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedYossry552&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedYossry" /> 
  
 </p>
